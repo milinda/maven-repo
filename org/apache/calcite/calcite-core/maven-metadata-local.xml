@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.calcite</groupId>
+  <artifactId>calcite-core</artifactId>
+  <versioning>
+    <release>1.6.0.samzasql</release>
+    <versions>
+      <version>1.6.0.samzasql</version>
+    </versions>
+    <lastUpdated>20160201024537</lastUpdated>
+  </versioning>
+</metadata>
